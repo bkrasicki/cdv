@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+  font-family: segoe UI;
+}
+
+.header-area {
+  background-color: #495057;
+  padding-top: 50px;
+  padding-bottom: 30px;
+  color: white;
+  text-align: center;
+}
+
+.header-area img {
+  width: 150px;
+  height: auto;
+}
+
+.header-area h1 {
+  text-transform: uppercase;
+  font-size: 40px;
+}
+
+.header-area p {
+  font-size: 14px;
+  margin-bottom: 60px;
+}
+
+.header-area a i{
+  color: #FFF;
+  width: 12px;
+  height: 12px;
+  font-size: 12px;
+  padding: 6px 6px;
+  border: 1px solid #FFF;
+  border-radius: 50%;
+}
+
+.container {
+  width: 60%;
+  margin: auto;
+}
+
+.about {
+  padding: 40px 0;
+    background-image: url("../img/background.png");
+    background-size: cover;
+}
+
+.about h2 {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 40px;
+  color: #495057;
+}
+
+.content {
+  text-align: center;
+  font-size: 13px;
+  color: #495057;
+}
+
+.col {
+  width: 31.33%;
+  float: left;
+  overflow: hidden;
+  margin: 0 1%;
+  color: #495057;
+}
+
+.col h3 {
+  text-transform: uppercase;
+  font-size: 14px;
+}
